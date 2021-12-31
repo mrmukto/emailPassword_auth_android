@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegisterWithFirebase</string>
+    <string name="new_register_singup">New Register? SingUp</string>
+</resources>
